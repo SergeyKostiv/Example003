@@ -1,0 +1,15 @@
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/Examples_WorkText.csproj.AssemblyReference.cache
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/Examples_WorkText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/Examples_WorkText.AssemblyInfoInputs.cache
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/Examples_WorkText.AssemblyInfo.cs
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/Examples_WorkText.csproj.CoreCompileInputs.cache
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/bin/Debug/net6.0/Examples_WorkText
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/bin/Debug/net6.0/Examples_WorkText.deps.json
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/bin/Debug/net6.0/Examples_WorkText.runtimeconfig.json
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/bin/Debug/net6.0/Examples_WorkText.dll
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/bin/Debug/net6.0/Examples_WorkText.pdb
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/Examples_WorkText.dll
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/refint/Examples_WorkText.dll
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/Examples_WorkText.pdb
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/Examples_WorkText.genruntimeconfig.cache
+/Users/sergeykostiv/Desktop/Example003/Examples_WorkText/obj/Debug/net6.0/ref/Examples_WorkText.dll
