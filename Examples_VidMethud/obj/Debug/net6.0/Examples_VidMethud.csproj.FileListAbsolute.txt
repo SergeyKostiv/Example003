@@ -1,0 +1,15 @@
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/bin/Debug/net6.0/Examples_VidMethud
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/bin/Debug/net6.0/Examples_VidMethud.deps.json
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/bin/Debug/net6.0/Examples_VidMethud.runtimeconfig.json
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/bin/Debug/net6.0/Examples_VidMethud.dll
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/bin/Debug/net6.0/Examples_VidMethud.pdb
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/Examples_VidMethud.csproj.AssemblyReference.cache
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/Examples_VidMethud.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/Examples_VidMethud.AssemblyInfoInputs.cache
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/Examples_VidMethud.AssemblyInfo.cs
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/Examples_VidMethud.csproj.CoreCompileInputs.cache
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/Examples_VidMethud.dll
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/refint/Examples_VidMethud.dll
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/Examples_VidMethud.pdb
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/Examples_VidMethud.genruntimeconfig.cache
+/Users/sergeykostiv/Desktop/Example003/Examples_VidMethud/obj/Debug/net6.0/ref/Examples_VidMethud.dll
